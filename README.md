@@ -1,4 +1,4 @@
-Calculadora de Partidas Rankeadas
+## Calculadora de Partidas Rankeadas
 Este é um desafio proposto pela Dio.me no curso de lógica de programação. A calculadora de partidas ranqueadas determina o nível de um jogador com base na quantidade de vitórias e derrotas.
 
 Objetivo
